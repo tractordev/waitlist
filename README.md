@@ -2,9 +2,6 @@
 Add GitHub username to get on waitlist
 
 * progrium
-* jpf
-* stevemurr
-* mgood
 * flexzuu
 * lalyos
 * boucher
