@@ -5,6 +5,7 @@ Add GitHub username to get on waitlist
 * flexzuu
 * lalyos
 * boucher
+* c-nv-s
 * dangoor
 * 
 
