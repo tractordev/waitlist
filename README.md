@@ -7,6 +7,7 @@ Add GitHub username to get on waitlist
 * boucher
 * c-nv-s
 * dangoor
+* yuvadm
 * jpstrikesback
 *
 
