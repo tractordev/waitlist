@@ -13,6 +13,7 @@ Add GitHub username to get on waitlist
 * donaldguy
 * dfectuoso
 * mikemar10
+* imaurer
 * 
 
 [Add name](https://github.com/tractordev/waitlist/edit/main/README.md)
