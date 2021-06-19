@@ -13,6 +13,7 @@ Add GitHub username to get on waitlist
 * donaldguy
 * dfectuoso
 * mikemar10
+* imaurer
 * beshrkayali
 * 
 
