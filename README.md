@@ -16,6 +16,7 @@ Add GitHub username to get on waitlist
 * imaurer
 * beshrkayali
 * technoweenie
+* meg-gutshall
 * 
 
 [Add name](https://github.com/tractordev/waitlist/edit/main/README.md)
