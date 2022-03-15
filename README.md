@@ -20,6 +20,6 @@ Add GitHub username to get on waitlist
 * andreccosta
 * elimisteve
 * olebedev
-* 
+* jparise
 
 [Add name](https://github.com/tractordev/waitlist/edit/main/README.md)
