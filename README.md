@@ -1,5 +1,5 @@
 # waitlist
-Add GitHub username to get on waitlist
+Add GitHub username to get on waitlist for Tractor System components
 
 * progrium
 * flexzuu
@@ -23,4 +23,9 @@ Add GitHub username to get on waitlist
 * jparise
 * sigmonsays
 * christian-korneck
-[Add name](https://github.com/tractordev/waitlist/edit/main/README.md)
+* 
+
+[Add your name](https://github.com/tractordev/waitlist/edit/main/README.md)
+
+# sponsor
+For quicker access, you can [sponsor](https://github.com/sponsors/progrium) and skip the waitlist!
