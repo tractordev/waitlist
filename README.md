@@ -23,6 +23,7 @@ Add GitHub username to get on waitlist for Tractor System components
 * jparise
 * sigmonsays
 * christian-korneck
+* lktslionel
 * TomLisankie
 * 
 
